@@ -1,5 +1,7 @@
 # Acode editor (Code editor for android)
 
+Recreation by DevDex
+
 ![Build the app](https://github.com/deadlyjack/code-editor/workflows/Build%20the%20app/badge.svg)
 
 ![logo](./res/icon/android/ic_launcher-web.png)
